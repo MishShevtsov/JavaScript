@@ -1,5 +1,5 @@
 const account = {
-    name: 'Mykhailo Shevtsov',
+    name: 'Andrew Mead',
     expenses: [],
     income: [],
     addExpense: function (description, amount) {
